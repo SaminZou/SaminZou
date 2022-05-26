@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ShenZhen
-- 🌱 I’m currently learning Java / Go / H5
-- 💬 Ask me about IoT / Medical
+- 🌱 I’m currently using Java / Go / H5
+- 💬 Focus on IoT / Medical domain
 - 📫 822085977@qq.com
 - 😄 Samin
 
