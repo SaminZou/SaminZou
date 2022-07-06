@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ShenZhen
-- 🌱 I’m currently using Java / Go / H5
+- 🌱 I’m currently using Java / Go / H5 / K8S
 - 💬 Focus on IoT / Medical domain
 - 📫 822085977@qq.com
 - 😄 Samin
