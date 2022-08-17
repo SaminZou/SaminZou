@@ -1,4 +1,4 @@
-# 👋
+# About me
 
 - 😄 My name is Samin, I am a development engineer from **China**
 - 🔭 I’m currently working on **ShenZhen**
