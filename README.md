@@ -1,9 +1,8 @@
-# About me
+# 👋 Hi there, I'm Samin! 🚀
 
-- 😄 My name is Samin, I am a development engineer from **China**
-- 🔭 I’m currently working on **ShenZhen**
-- 🌱 I’m currently using **Java / Go / H5 / K8s**
-- 💬 Focus on **IoT / Medical** domain
-- 📫 **822085977@qq.com**
+- 😄 🇨🇳 Development Engineer based in Shenzhen, China.
+- 🛠️ Crafting solutions with Java, Go, H5, and Kubernetes (K8s).
+- 🔍 Focused on the Internet of Things (IoT) and Medical Technology sectors.
+- 📞 Need to reach out? Drop me an email at 822085977@qq.com.
 
 ![Samin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaminZou&show_icons=true&theme=vue)
